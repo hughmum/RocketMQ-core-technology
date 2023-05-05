@@ -1,9 +1,10 @@
 ⚡ 项目简介 ⚡
-技术栈
-JDK 8  
-zookeeper 3.4.9
-dubbo 
-rocketmq 4.4.0 
+
+### 技术栈
+- JDK 8  
+- zookeeper 3.4.9
+- dubbo 
+- rocketmq 4.4.0 
 
 # RocketMQ-core-technology
 ## 双11抗压场景分析
